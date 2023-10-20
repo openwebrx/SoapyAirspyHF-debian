@@ -1,3 +1,7 @@
+soapyairspyhf (0.2.0-1~owrx1) UNRELEASED; urgency=low
+
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Fri, 20 Oct 2023 21:52:00 +0000
+
 soapyairspyhf (0.2.0-1) unstable; urgency=low
 
   * Release 0.2.0 (2021-06-02)

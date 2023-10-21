@@ -1,4 +1,4 @@
-soapyairspyhf (0.2.0-1~owrx1) UNRELEASED; urgency=low
+soapyairspyhf (0.2.0-1+owrx1) UNRELEASED; urgency=low
 
   * Update package names for SoapySDR 0.8
 

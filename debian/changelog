@@ -1,5 +1,7 @@
 soapyairspyhf (0.2.0-1~owrx1) UNRELEASED; urgency=low
 
+  * Update package names for SoapySDR 0.8
+
  -- Jakob Ketterl <jakob.ketterl@gmx.de>  Fri, 20 Oct 2023 21:52:00 +0000
 
 soapyairspyhf (0.2.0-1) unstable; urgency=low

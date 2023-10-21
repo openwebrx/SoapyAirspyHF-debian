@@ -13,7 +13,7 @@ Homepage: https://github.com/pothosware/SoapyAirspyHF/wiki
 Vcs-Git: https://github.com/pothosware/SoapyAirspyHF.git
 Vcs-Browser: https://github.com/pothosware/SoapyAirspyHF
 
-Package: soapysdr0.7-module-airspyhf
+Package: soapysdr0.8-module-airspyhf
 Architecture: any
 Multi-Arch: same
 Depends: ${shlibs:Depends}, ${misc:Depends}
@@ -22,7 +22,7 @@ Description: Soapy AirspyHF - AirspyHF device support for Soapy SDR.
 
 Package: soapysdr-module-airspyhf
 Architecture: all
-Depends: soapysdr0.7-module-airspyhf, ${misc:Depends}
+Depends: soapysdr0.8-module-airspyhf, ${misc:Depends}
 Description: Soapy AirspyHF - AirspyHF device support for Soapy SDR.
  A Soapy module that supports AirspyHF devices within the Soapy API.
  .
